@@ -6,7 +6,7 @@ build_type="userdebug"
 
 # Rom G-Apps Command
 
-#gapps_command="WITH_GAPPS"
+gapps_command="WITH_GAPPS"
 
 # To build with gapps or no )(yes|no)
 
