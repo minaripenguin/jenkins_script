@@ -29,7 +29,7 @@ target_name="<no>"
 # Uncomment set to (yes|no(default)|installclean)
 
 # make_clean="installclean"
-make_clean="yes"
+# make_clean="yes"
 
 priv_to_me="/home/configs/priv.conf"
 newpeeps="/home/configs/"${user}.conf
