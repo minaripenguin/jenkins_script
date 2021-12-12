@@ -7,7 +7,7 @@ build_type="userdebug"
 
 # Rom G-Apps Command
 
-gapps_command="WITH_GAPPS" 
+gapps_command="" 
 with_gapps="<no>"
 
 # To build with gapps or no )(yes|no)
@@ -29,7 +29,7 @@ else
 	folder="/home2/${user}/arcana"
 fi
 
-rom_name="Arcana"*.zip # Zip name
+rom_name="ProjectArcana"*.zip # Zip name
 OUT_PATH="$folder/out/target/product/${device_codename}"
 ROM=${OUT_PATH}/${rom_name}
 A12="yes" # If you are building a12 set this to yes.
